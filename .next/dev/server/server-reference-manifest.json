@@ -1,0 +1,66 @@
+{
+  "node": {
+    "006249ef5e63992978f88e7d07d7047435d1a65bc1": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "getCars",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "getCars"
+    },
+    "40e293cc38cac079c3801faaab85565a96da123401": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "createCar",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "createCar"
+    },
+    "40eef5cc46385cb3791a7af1fba830e548a1c541b4": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "deleteCar",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "deleteCar"
+    },
+    "601c69bda4ae922e31fa5ad22f60eb8d7927e1144e": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "toggleCarRentStatus",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "toggleCarRentStatus"
+    },
+    "7c959ced9dd9f6f8331d73ff603ed44d7c1506354c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "addTransaction",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "addTransaction"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "/2dwFFRhx0tVJ2yM8cZWHAl0VgZu6g8fybTf9CRwgBw="
+}

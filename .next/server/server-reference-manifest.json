@@ -1,0 +1,66 @@
+{
+  "node": {
+    "008088029a20c5f7b48fcea565068128738011d32a": {
+      "workers": {
+        "app/page": {
+          "moduleId": 57526,
+          "async": true,
+          "exportedName": "getCars",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "getCars"
+    },
+    "4001e28de14feb95d6d90ea338b932c973d8231824": {
+      "workers": {
+        "app/page": {
+          "moduleId": 57526,
+          "async": true,
+          "exportedName": "deleteCar",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "deleteCar"
+    },
+    "4057fb878b55995d4b7af5d549e9ab61b97ee4470b": {
+      "workers": {
+        "app/page": {
+          "moduleId": 57526,
+          "async": true,
+          "exportedName": "createCar",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "createCar"
+    },
+    "604d1ed229ef07107e7fc53bf8efd1ebe27da970bf": {
+      "workers": {
+        "app/page": {
+          "moduleId": 57526,
+          "async": true,
+          "exportedName": "toggleCarRentStatus",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "toggleCarRentStatus"
+    },
+    "7c7f730bf37b4d2e294684124ff632c3651bc1d1ee": {
+      "workers": {
+        "app/page": {
+          "moduleId": 57526,
+          "async": true,
+          "exportedName": "addTransaction",
+          "filename": "app/actions.ts"
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "addTransaction"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "aA0/ZT+I0WX/yMP780mibEpKXvqoZ5o2yj9U8mooNH8="
+}

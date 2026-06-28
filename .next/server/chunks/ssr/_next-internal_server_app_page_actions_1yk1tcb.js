@@ -1,0 +1,3 @@
+module.exports=[71570,a=>a.a(async(b,c)=>{try{var d=a.i(56004),e=b([d]);[d]=e.then?(await e)():e,a.s([]),c()}catch(a){c(a)}},!1),57526,a=>a.a(async(b,c)=>{try{var d=a.i(71570),e=a.i(56004),f=b([d,e]);[d,e]=f.then?(await f)():f,a.s(["008088029a20c5f7b48fcea565068128738011d32a",()=>e.getCars,"4001e28de14feb95d6d90ea338b932c973d8231824",()=>e.deleteCar,"4057fb878b55995d4b7af5d549e9ab61b97ee4470b",()=>e.createCar,"604d1ed229ef07107e7fc53bf8efd1ebe27da970bf",()=>e.toggleCarRentStatus,"7c7f730bf37b4d2e294684124ff632c3651bc1d1ee",()=>e.addTransaction]),c()}catch(a){c(a)}},!1)];
+
+//# sourceMappingURL=_next-internal_server_app_page_actions_1yk1tcb.js.map
